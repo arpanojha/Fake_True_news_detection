@@ -14,5 +14,7 @@ Using CNN/ANN to make a better prediction model. as deep learning is incorporate
 Time taken to train in cpu: <3 hours. 
 
 Screenshot of result shown below:
+
+
 ![Alt text](svm_results.PNG?raw=true "SVM trained on cpu")
 
